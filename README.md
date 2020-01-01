@@ -1,13 +1,10 @@
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 Comment: 用户编号:	Banson <xzcxzcyy@126.com>
-
 Comment: 连接时间:	2020/1/1 1:10
-
 Comment: 文件系统:	4096 位 RSA(绝密密钥可用)
-
 Comment: 用途:	签名, 仅加密, 正在认证的用户编号
-
 Comment: 指纹:	DD84EBACC7D23E1977A3ABFB8CFFC3E6024A9AA9
 
 mQINBF4LgRkBEADBjGfFrtpmUgO/HhULV0GqcnV1zKdh+zPDHUhhtdjSuES3fZ1B
@@ -59,3 +56,4 @@ lowQB8WrsSur+jbJWflmzVb9L/x2hp3TbYEpd+YyH0KdBFUu6vBaG0gX62YwdqAF
 QDA7kqWpQ5SToPhXIIDJayIj7Bplt7CZ8Du8OuXHBGB8Btyydw==
 =u4Gi
 -----END PGP PUBLIC KEY BLOCK-----
+```
